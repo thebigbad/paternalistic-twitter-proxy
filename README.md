@@ -6,7 +6,7 @@ Twitter proxy that refuses status updates with location metadata.
 Motivation
 ===
 
-I really like using (Seesmic for Android)[http://seesmic.com/products/android], but I worry the teeny
+I really like using ("Seesmic for Android")[http://seesmic.com/products/android], but I worry the teeny
 form factor will make it easy for me to accidentally tweet things I don't intend
 (like my location).
 
