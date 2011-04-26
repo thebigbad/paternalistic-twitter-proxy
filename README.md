@@ -33,7 +33,7 @@ If you have a beta account at [duostack](http://www.duostack.com/):
     $ duostack config stack node-0.4.2
     $ git push duostack master
 
-The address of your proxy is: http://$NAME.duostack.net
+The address of your proxy is: $NAME.duostack.net
 
 Setup Seesmic for Android
 ===
