@@ -38,17 +38,17 @@ The address of your proxy is: http://$NAME.duostack.net
 Setup Seesmic for Android
 ===
 
-Assuming you have Seesmic for Android installed and a Twitter account"
+Assuming you have Seesmic for Android installed and a Twitter account:
 
-# Start up Seesmic
-# Click on that adorable raccoon head to get the Accounts section
-# Click on the plus sign to get to "Add an account"
-# Choose "Twitter proxy"
-# Enter Twitter username and password
-# Uncheck "Use secure connection"
-# Enter the address of your proxy in "REST API server" and "Search API server" fields
-# Make sure "Use XAuth" is checked
-# Scroll back up to the top and click "Sign In"
+1. Start up Seesmic
+2. Click on that adorable raccoon head to get the Accounts section
+3. Click on the plus sign to get to "Add an account"
+4. Choose "Twitter proxy"
+5. Enter Twitter username and password
+6. Uncheck "Use secure connection"
+7. Enter the address of your proxy in "REST API server" and "Search API server" fields
+8. Make sure "Use XAuth" is checked
+9. Scroll back up to the top and click "Sign In"
 
 Thanks
 ===
